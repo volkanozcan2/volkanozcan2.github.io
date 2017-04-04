@@ -13,4 +13,4 @@ For fine adjustment of value use mouse wheel.
 
 ## Used libraries
 
-P5.js , jquery and quicksettings.js
+p5.js , jquery and quicksettings.js
