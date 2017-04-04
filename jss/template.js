@@ -24,7 +24,7 @@ let theta = 0;
 let arr = [];
 
 function draw() {
-    background("black");
+    clear();
     translate(width * .5, height * .5);
     rotate(180);
 
