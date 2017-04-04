@@ -1,6 +1,7 @@
+![pic](https://cloud.githubusercontent.com/assets/25296618/24648446/4c89a2f4-192c-11e7-9981-2d579022d979.jpg)
 ## Synopsis
 
-Multiplication table which i saw on Mathologer youtube channel. 
+Multiplication table which i saw on [Mathologer](https://www.youtube.com/watch?v=qhbuKbxJsk8) youtube channel. 
 
 
 ## How to Use
