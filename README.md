@@ -6,7 +6,7 @@ Multiplication table which i saw on [Mathologer](https://www.youtube.com/watch?v
 
 ## How to Use
 
-Just play with buttons.
+Just play with sliders.
 For fine adjustment of value use mouse wheel or left right keys.
 
 
